@@ -5,7 +5,7 @@ To support the development of social meida based multi-modal depression and emot
 The dataset also provides train/dev/test sub-datasets.
 
 ### Dataset Distribution
-![Dataset Distribution](https://github.com//yzzhang2008//MGID-Dataset//edit//main//distribution.png)
+![Dataset Distribution](https://github.com/yzzhang2008/MGID-Dataset/blob/9005d6bfe17a4907674dd5ebca854931f2bf928e/distribution.png)
 
 ### Citation
 All publications reporting on research using this database have to acknowledge this by citing the following article:<br> 
