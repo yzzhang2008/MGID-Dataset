@@ -14,7 +14,7 @@ To be waited...
 
 #### (1) Download Raw Data
 *** As for text, the title and textual content has been encapsulated into .zip file. One can access it directionly.<br> 
-*** As for raw image, since Getty Image is a commercial platform, we will not upload the raw image directionly. Instead, we choose to upload its image URL, and provide the   imagedownloader.py to download all raw images in MGID.
+*** As for raw image, since Getty Image is a commercial platform, we will not upload the raw image directionly. Instead, we choose to upload its image URL, and provide the   _imageDownloader.py_ to download all raw images in MGID.
 
 #### (2) User license
 ##### 1. Commercial and academic use
