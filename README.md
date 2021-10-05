@@ -4,7 +4,7 @@
 To support the development of social meida based multi-modal depression and emotion joint recognition, we collect textual and visual documents from Getty Image, and create a weakly labeled multi-modal depression and emotion dataset, called MGID. We we set a list of keywords with strongly depression (e.g., "depressive patient", "depression", etc.) and emotions ("happy", "scary", etc.) to query Getty Images, and use the labels of these words to weakly label the retrieved multi-modal documents of the first thirty pages. Based on these documents, we construct a new multi-modal Getty Image depression and emotion (MGID) dataset. It contains 2500 depressive and 2500 non-depressive samples. As for emotion, we divide MGID into SIX emotions, i.e., happiness, depressed, neutral, fear, surprise (including positive and negative feelings), anger.
 
 ### Dataset Distribution
-![Alt text](/path/to/img.jpg)
+![Dataset Distribution](https://github.com/yzzhang2008/MGID-Dataset/edit/main/distribution.png)
 
 ### Citation
 All publications reporting on research using this database have to acknowledge this by citing the following article:<br> 
